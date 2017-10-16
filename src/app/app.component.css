@@ -1,0 +1,36 @@
+.wrapper{
+	width: 1000px;
+	height: 600px;
+	background-color: gray;
+	padding-top: 10px;
+}
+
+.header{
+	width: 900px;
+	height: 100px;
+	background-color: #99C3FD;
+	margin-left: 45px;
+	border: 2px solid white;
+}
+
+.nav{
+	width: 200px;
+	height: 400px;
+	background-color: #99C3FD;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;
+	margin-left: 44px;
+	border: 2px solid white;
+}
+
+.main{
+	width: 683px;
+	height: 400px;
+	background-color: #99C3FD;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 10px;
+	margin-left: 10px;
+	border: 2px solid white;
+}
